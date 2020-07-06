@@ -5,5 +5,6 @@
     <ClCompile Include="Code\1003_Fibonacci.cpp" />
     <ClCompile Include="Code\10828_Stack.cpp" />
     <ClCompile Include="Code\1004_LittlePrince.cpp" />
+    <ClCompile Include="Code\10039_AverageScore.cpp" />
   </ItemGroup>
 </Project>
