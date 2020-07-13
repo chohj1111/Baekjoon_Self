@@ -1,9 +1,4 @@
-#include <cstdio>
-#include <cstdlib>
 #include <iostream>
-#include <stack>
-#include <vector>
-#include <algorithm>
 #include <string>
 #include <cmath>
 
