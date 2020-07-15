@@ -9,5 +9,7 @@
     <ClCompile Include="Code\12790_MiniFantasyWar.cpp" />
     <ClCompile Include="Code\2747_Fibonacci.cpp" />
     <ClCompile Include="Code\12791_Starman.cpp" />
+    <ClCompile Include="2178_Maze.cpp" />
+    <ClCompile Include="Code\1260_DFS_BFS_Later.cpp" />
   </ItemGroup>
 </Project>
