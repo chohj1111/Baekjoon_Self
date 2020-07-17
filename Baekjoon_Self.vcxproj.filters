@@ -12,5 +12,6 @@
     <ClCompile Include="Code\1260_DFS_BFS_Later.cpp" />
     <ClCompile Include="Code\1009_DistibutedDataProcessing.cpp" />
     <ClCompile Include="Code\2178_Maze.cpp" />
+    <ClCompile Include="Code\2606_Virus.cpp" />
   </ItemGroup>
 </Project>
