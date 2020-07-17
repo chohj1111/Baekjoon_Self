@@ -3,5 +3,14 @@
   <ItemGroup>
     <ClCompile Include="Code\1002_Turret.cpp" />
     <ClCompile Include="Code\1003_Fibonacci.cpp" />
+    <ClCompile Include="Code\10828_Stack.cpp" />
+    <ClCompile Include="Code\1004_LittlePrince.cpp" />
+    <ClCompile Include="Code\10039_AverageScore.cpp" />
+    <ClCompile Include="Code\12790_MiniFantasyWar.cpp" />
+    <ClCompile Include="Code\2747_Fibonacci.cpp" />
+    <ClCompile Include="Code\12791_Starman.cpp" />
+    <ClCompile Include="Code\1260_DFS_BFS_Later.cpp" />
+    <ClCompile Include="Code\1009_DistibutedDataProcessing.cpp" />
+    <ClCompile Include="Code\2178_Maze.cpp" />
   </ItemGroup>
 </Project>
