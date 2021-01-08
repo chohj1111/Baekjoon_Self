@@ -13,5 +13,13 @@
     <ClCompile Include="Code\1009_DistibutedDataProcessing.cpp" />
     <ClCompile Include="Code\2178_Maze.cpp" />
     <ClCompile Include="Code\2606_Virus.cpp" />
+    <ClCompile Include="Code\1550_HEX.cpp" />
+    <ClCompile Include="Code\2475_Verifcation.cpp" />
+    <ClCompile Include="Code\2845_Party.cpp" />
+    <ClCompile Include="Code\2914_Copyright.cpp" />
+    <ClCompile Include="Code\3003_Chess.cpp" />
+    <ClCompile Include="Code\3046_R2.cpp" />
+    <ClCompile Include="Code\11399_ATM.cpp" />
+    <ClCompile Include="Code\9663_NQueen.cpp" />
   </ItemGroup>
 </Project>
